@@ -1,0 +1,16 @@
+# Core modelling stack (verified on Python 3.10–3.14)
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+xgboost>=2.0
+
+# Dashboard
+streamlit>=1.30
+plotly>=5.18
+
+# Reporting figures + persistence
+matplotlib>=3.8
+joblib>=1.3
+
+pyarrow>=14.0
