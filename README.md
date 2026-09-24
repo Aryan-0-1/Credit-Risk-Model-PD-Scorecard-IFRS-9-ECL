@@ -21,7 +21,6 @@ A bank-grade probability-of-default (PD) modeling pipeline built on the Lending 
 - [Performance Architecture](#performance-architecture)
 - [Tech Stack](#tech-stack)
 - [Data Source](#data-source)
-- [License](#license)
 
 ---
 
@@ -191,6 +190,18 @@ The upshot: opening the dashboard costs roughly what it takes to load a handful 
 
 [Lending Club Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club) (Kaggle), covering accepted loans originated 2007–2018. The raw file is not included in this repository — download it from Kaggle and place it under `data/` as described above. Usage of the dataset is subject to Kaggle's and the original publisher's terms.
 
-## License
+# 👤 Author
 
-This project is licensed under the MIT License — see [`LICENSE`](LICENSE) for details. (Add a `LICENSE` file with your preferred terms before publishing, if you haven't already.)
+**Aryan Choudhary**
+
+GitHub: [@Aryan-0-1](https://github.com/Aryan-0-1)
+
+Repository: [Credit Risk Model — PD Scorecard & IFRS 9 ECL](https://github.com/Aryan-0-1/Credit-Risk-Model-PD-Scorecard-IFRS-9-ECL?utm_source=chatgpt.com)
+
+---
+
+## ⭐ If You Found This Project Useful
+
+Consider giving the repository a ⭐ on GitHub.
+
+Contributions, suggestions, and improvements are welcome.
