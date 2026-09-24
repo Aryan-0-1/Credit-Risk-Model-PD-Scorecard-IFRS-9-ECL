@@ -21,6 +21,7 @@ A bank-grade probability-of-default (PD) modeling pipeline built on the Lending 
 - [Performance Architecture](#performance-architecture)
 - [Tech Stack](#tech-stack)
 - [Data Source](#data-source)
+- [Author](#Author)
 
 ---
 
