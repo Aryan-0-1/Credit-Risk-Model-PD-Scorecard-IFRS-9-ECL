@@ -1,11 +1,6 @@
 # Credit Risk Model — PD Scorecard & IFRS 9 ECL
 
 A bank-grade probability-of-default (PD) modeling pipeline built on the Lending Club loan dataset, pairing an interpretable logistic scorecard (champion) against XGBoost and Random Forest (challengers), a full model-validation suite, and an IFRS 9 three-stage Expected Credit Loss engine — all wired into an interactive Streamlit dashboard.
-
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/streamlit-dashboard-FF4B4B)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## Table of Contents
