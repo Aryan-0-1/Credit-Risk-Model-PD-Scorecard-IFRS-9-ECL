@@ -191,7 +191,7 @@ The upshot: opening the dashboard costs roughly what it takes to load a handful 
 
 [Lending Club Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club) (Kaggle), covering accepted loans originated 2007–2018. The raw file is not included in this repository — download it from Kaggle and place it under `data/` as described above. Usage of the dataset is subject to Kaggle's and the original publisher's terms.
 
-# 👤 Author
+## Author
 
 **Aryan Choudhary**
 
